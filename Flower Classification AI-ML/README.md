@@ -1,0 +1,1 @@
+A SVM Model has been built to predit the species of flowers by using various attributes such as petal length, petal width etc on the iris dataset present in seaborne library.
