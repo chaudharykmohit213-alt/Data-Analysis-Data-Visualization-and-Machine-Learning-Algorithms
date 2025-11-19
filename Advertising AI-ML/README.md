@@ -1,0 +1,1 @@
+A model bulit to predict if a person will click on a an advertisement or not based on various features of a dataset such as time spent on website etc. Logistic regression has been used as the machine learning algorithm.
