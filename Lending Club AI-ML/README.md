@@ -1,0 +1,3 @@
+Loan Default Predictor: This project involved building a Deep Learning model (Neural Network) to predict if a loan from a large dataset would be fully repaid or default (charged off).
+
+The work involved heavily cleaning and preparing the complex financial data (Feature Engineering), before training the model to learn the patterns that lead to repayment or default, ultimately providing a tool for risk assessment.
